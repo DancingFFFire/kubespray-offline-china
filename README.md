@@ -26,4 +26,6 @@ dns-node-cache v1.15.13
 
 内含一些常用的离线环境搭建技巧。
 
-https://github.com/DancingFFFire/kubespray-offline-china
+作者QQ: 1984945330
+
+转载请注明出处。(https://github.com/DancingFFFire/kubespray-offline-china)
